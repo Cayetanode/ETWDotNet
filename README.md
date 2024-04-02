@@ -5,3 +5,4 @@
 # Proyecto realizado en ensamblador, masm32.
 # Usar Easy Code para compilacion. Con una alineacion de 8.
 
+ETW Intercepta la carga de un CLR en .NET.
